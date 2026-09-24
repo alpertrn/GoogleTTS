@@ -1,0 +1,13 @@
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Google servis hesabı
+service_account.json
+**/service_account.json
+
+# Gizli yapılandırma dosyaları
+.env
+**/.env

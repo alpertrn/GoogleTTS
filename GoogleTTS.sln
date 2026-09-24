@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleTTS", "GoogleTTS\GoogleTTS.csproj", "{641BBAF7-5D3D-437D-9228-783A3FC14329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{641BBAF7-5D3D-437D-9228-783A3FC14329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641BBAF7-5D3D-437D-9228-783A3FC14329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641BBAF7-5D3D-437D-9228-783A3FC14329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641BBAF7-5D3D-437D-9228-783A3FC14329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C20696C1-149D-4285-99B4-252C3DF2174B}
+	EndGlobalSection
+EndGlobal
